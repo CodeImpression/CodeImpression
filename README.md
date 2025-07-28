@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeImpression
-- 👀 I’m interested in Web Design 
-- 🌱 I’m currently learning - JS
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning - Python
 - 💞️ I’m looking to collaborate on anything for experience
 - 📫 How to reach me amy@codeimpression.tech
 
